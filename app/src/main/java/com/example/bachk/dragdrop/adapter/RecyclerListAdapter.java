@@ -39,8 +39,7 @@ import java.util.Collections;
 import java.util.List;
 
 
-public class RecyclerListAdapter extends RecyclerView.Adapter<RecyclerListAdapter.ItemViewHolder>
-        implements ItemTouchHelperAdapter {
+public class RecyclerListAdapter extends RecyclerView.Adapter<RecyclerListAdapter.ItemViewHolder> implements ItemTouchHelperAdapter {
 
     private final List<String> mItems = new ArrayList<>();
 
