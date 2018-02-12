@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DragDrop</string>
+
+    <array name="dummy_items">
+        <item>Tuấn chó 0</item>
+        <item>Tuấn chó 1</item>
+        <item>Tuấn chó 2</item>
+        <item>Tuấn chó 3</item>
+        <item>Tuấn chó 4</item>
+        <item>Tuấn chó 5</item>
+        <item>Tuấn chó 6</item>
+        <item>Tuấn chó 7</item>
+        <item>Tuấn chó 8</item>
+        <item>Tuấn chó 9</item>
+    </array>
+</resources>
